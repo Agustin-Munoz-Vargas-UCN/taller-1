@@ -74,7 +74,8 @@ El proyecto presente no utilizo Programación Orientada a Objetos (POO) ni colec
 
 ### Opción 1: Terminal.
 
-- Descargue y descomprima (Click derecho/Extraer aquí) el "Agustin-Munoz-Vargas-UCN_POO_Taller01_Terminal.zip"
+- Descargue y descomprima (Click derecho/Extraer aquí) el
+  "Agustin-Munoz-Vargas-UCN_POO_Taller01_Terminal.zip"
 
 - Abra la carpeta raíz del archivo en la terminal
 
@@ -84,7 +85,8 @@ El proyecto presente no utilizo Programación Orientada a Objetos (POO) ni colec
 
 ### Opción 2: Eclipse IDE.
 
-- Descargue y descomprima (Click derecho/Extraer aquí) el "Agustin-Munoz-Vargas-UCN_POO_Taller01_Eclipse.zip"
+- Descargue y descomprima (Click derecho/Extraer aquí) el
+  "Agustin-Munoz-Vargas-UCN_POO_Taller01_Eclipse.zip"
 
 - Abra Eclipse y dele a "Importar"
 

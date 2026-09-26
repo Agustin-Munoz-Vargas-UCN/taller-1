@@ -39,14 +39,9 @@ El proyecto presente no utilizo Programación Orientada a Objetos (POO) ni colec
 
 ```text
 .
-├── .classpath
-├── .project
 ├── README.md
 ├── Agustin-Munoz-Vargas-UCN_POO_Taller01_Eclipse.zip
 ├── Agustin-Munoz-Vargas-UCN_POO_Taller01_Terminal.zip
-├── .settings/
-│   ├── org.eclipse.core.resources.prefs
-│   ├── org.eclipse.jdt.core.prefs
 └── src/
     ├── reportes/
     │   ├── //ReporteC1-VX (Cantidad variable de archivos de reporte C1)
